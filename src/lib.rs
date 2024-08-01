@@ -4,8 +4,9 @@
 //! doc goes here
 
 use bevy::app::{App, Plugin, Update};
+
 #[cfg(feature = "state")]
-use bevy::prelude::{in_state, States};
+use bevy::prelude::{in_state, States, IntoSystemConfigs};
 
 macro_rules! plugin_systems {
     ( ) => {
