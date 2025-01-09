@@ -24,4 +24,4 @@ Compatible Bevy Versions
 
 | bevy | your_plugin                  |
 |------|------------------------------|
-| 0.14 | 0.0.1, branch `master`       |
+| 0.15 | 0.0.1, branch `master`       |
